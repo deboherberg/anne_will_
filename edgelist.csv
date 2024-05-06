@@ -1,25 +1,25 @@
-from,to,relationship
-uvdl,CDU,1
-uvdl,fh,2
-lk,SPD,1
-lk,fh,2
-cld,FDP,1
-cld,fhe,2
-ks,fhe,2
-ab,fhz,2
-ah,fhz,2
-hb,fhz,2
-eb,fhz,2
-hb,fhd,2
-lk,fhd,2
-cb,SPD,1
-cb,fhd,2
-cll,CDU,1
-cll,fhd,2
-cll,fhv,2
-al,FDP,1
-al,fhv,2
-cld,CDU,1
-cld,fhv,2
-os,SPD,1
-os,fhf,2
+from	to	relationship
+uvdl	CDU	1
+uvdl	fh	2
+lk	SPD	1
+lk	fh	2
+cld	FDP	1
+cld	fhe	2
+ks	fhe	2
+ab	fhz	2
+ah	fhz	2
+hb	fhz	2
+eb	fhz	2
+hb	fhd	2
+lk	fhd	2
+cb	SPD	1
+cb	fhd	2
+cll	CDU	1
+cll	fhd	2
+cll	fhv	2
+al	FDP	1
+al	fhv	2
+cld	CDU	1
+cld	fhv	2
+os	SPD	1
+os	fhf	2
